@@ -1,0 +1,161 @@
+
+#########################
+Date time 
+#########################
+What day is it Done 
+Remember Birtday 
+Timer 
+Countdown
+Alarm 
+
+
+#########################
+Googling stuff
+#########################
+Search in wikipedia  
+Play music from spotify or youtube 
+Search in Spotify 
+Search on youtube 
+Search on stack overflow 
+Weather 
+Radio 
+
+#########################
+Hacking 
+#########################
+Scan a network or ip 
+Netcat 
+Keylogger 
+Backdoor 
+Server 
+Email scriper Done 
+Website crawler 
+Spamming bot 
+Denial of service 
+Botnet 
+
+
+
+###########################
+System info 
+###########################
+
+Ram information  
+CPU information
+Hard drive information
+Run cmd 
+Run commands in cmd 
+
+############################
+File handling 
+############################
+
+Create documents 
+To do lists 
+Open images 
+Convert file type 
+Write files 
+Compress files 
+Create audiobooks from pdfs 
+Sceenshot 
+
+
+############################
+Finance 
+############################
+
+Information about stocks 
+Graphs about stocks 
+Investing suggestion with ai
+
+##############################
+AI
+##############################
+
+Investing suggestions 
+Song suggestions 
+Movie suggestion 
+
+##############################
+Services 
+##############################
+
+Sending emails 
+Write emails 
+Phone calls 
+Checking for messenges 
+
+################################
+Media 
+################################
+
+Youtube downloader 
+Mp3 Download 
+Instagram photo download 
+Instagram statistics 
+
+
+###############################
+Automations 
+###############################
+
+Spotify and youtube 
+Stack overflow broswer 
+
+
+###############################
+Connection
+###############################
+
+Connnect Jarvis with a database so it can store information
+Make a server for Jarvis 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
